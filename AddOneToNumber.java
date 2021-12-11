@@ -36,10 +36,6 @@ class AddOneToNumber{
 			end--;
 		}
 
-		// for(int i =0;i<B.length;i++){
-
-		// 	System.out.print(B[i]);
-		// }
 		B.add(carry);
 		
 
